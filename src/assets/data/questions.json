@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Who was the first President of Ghana?",
+    "options": [
+      { "text": "Kwame Nkrumah", "isRight": true },
+      { "text": "Jerry John Rawlings", "isRight": false },
+      { "text": "John Kufuor", "isRight": false },
+      { "text": "Dr. Busia", "isRight": false }
+    ]
+  },
+  {
+    "question": "When did Ghana gain independence?",
+    "options": [
+      { "text": "6th March 1957", "isRight": true },
+      { "text": "1st July 1960", "isRight": false },
+      { "text": "21st September 1952", "isRight": false },
+      { "text": "24th February 1966", "isRight": false }
+    ]
+  },
+  {
+    "question": "What was Ghana formerly known as?",
+    "options": [
+      { "text": "Gold Coast", "isRight": true },
+      { "text": "Slave Coast", "isRight": false },
+      { "text": "Ivory Coast", "isRight": false },
+      { "text": "Ashanti Kingdom", "isRight": false }
+    ]
+  },
+  {
+    "question": "Which empire was located in present-day northern Ghana?",
+    "options": [
+      { "text": "Mole-Dagbani", "isRight": true },
+      { "text": "Yoruba", "isRight": false },
+      { "text": "Zulu", "isRight": false },
+      { "text": "Benin", "isRight": false }
+    ]
+  },
+  {
+    "question": "In what year did Ghana become a republic?",
+    "options": [
+      { "text": "1960", "isRight": true },
+      { "text": "1957", "isRight": false },
+      { "text": "1979", "isRight": false },
+      { "text": "1992", "isRight": false }
+    ]
+  },
+  {
+    "question": "Which Ghanaian leader led a military coup in 1981?",
+    "options": [
+      { "text": "Jerry John Rawlings", "isRight": true },
+      { "text": "John Mahama", "isRight": false },
+      { "text": "Kwame Nkrumah", "isRight": false },
+      { "text": "John Kufuor", "isRight": false }
+    ]
+  },
+  {
+    "question": "Which kingdom was known for its military strength in Ghana?",
+    "options": [
+      { "text": "Ashanti Kingdom", "isRight": true },
+      { "text": "Mamprusi Kingdom", "isRight": false },
+      { "text": "Ga Kingdom", "isRight": false },
+      { "text": "Dagbon Kingdom", "isRight": false }
+    ]
+  },
+  {
+    "question": "Which famous Ghanaian woman led a revolt against colonial rule?",
+    "options": [
+      { "text": "Yaa Asantewaa", "isRight": true },
+      { "text": "Efua Sutherland", "isRight": false },
+      { "text": "Ama Ata Aidoo", "isRight": false },
+      { "text": "Akosua Busia", "isRight": false }
+    ]
+  },
+  {
+    "question": "Which European country first colonized the Gold Coast?",
+    "options": [
+      { "text": "Portugal", "isRight": true },
+      { "text": "Britain", "isRight": false },
+      { "text": "France", "isRight": false },
+      { "text": "Germany", "isRight": false }
+    ]
+  },
+  {
+    "question": "Which region is known as the political birthplace of Kwame Nkrumah?",
+    "options": [
+      { "text": "Western Region", "isRight": true },
+      { "text": "Ashanti Region", "isRight": false },
+      { "text": "Volta Region", "isRight": false },
+      { "text": "Northern Region", "isRight": false }
+    ]
+  },
+  {
+    "question": "What was the main export of the Gold Coast before independence?",
+    "options": [
+      { "text": "Cocoa", "isRight": true },
+      { "text": "Oil", "isRight": false },
+      { "text": "Bauxite", "isRight": false },
+      { "text": "Timber", "isRight": false }
+    ]
+  },
+  {
+    "question": "Which Ghanaian city was the first capital of the Gold Coast?",
+    "options": [
+      { "text": "Cape Coast", "isRight": true },
+      { "text": "Accra", "isRight": false },
+      { "text": "Kumasi", "isRight": false },
+      { "text": "Tamale", "isRight": false }
+    ]
+  },
+  {
+    "question": "Who was the first female Chief Justice of Ghana?",
+    "options": [
+      { "text": "Georgina Theodora Wood", "isRight": true },
+      { "text": "Joyce Bamford-Addo", "isRight": false },
+      { "text": "Charlotte Osei", "isRight": false },
+      { "text": "Sophia Akuffo", "isRight": false }
+    ]
+  },
+  {
+    "question": "When was the 4th Republic of Ghana established?",
+    "options": [
+      { "text": "1992", "isRight": true },
+      { "text": "1979", "isRight": false },
+      { "text": "1981", "isRight": false },
+      { "text": "2000", "isRight": false }
+    ]
+  },
+  {
+    "question": "Who led Ghana immediately after Kwame Nkrumah's overthrow?",
+    "options": [
+      { "text": "Joseph Arthur Ankrah", "isRight": true },
+      { "text": "Jerry Rawlings", "isRight": false },
+      { "text": "Hilla Limann", "isRight": false },
+      { "text": "John Atta Mills", "isRight": false }
+    ]
+  },
+  {
+    "question": "What is the name of Ghana's independence square?",
+    "options": [
+      { "text": "Black Star Square", "isRight": true },
+      { "text": "Kwame Nkrumah Park", "isRight": false },
+      { "text": "Freedom Square", "isRight": false },
+      { "text": "Ghana Unity Square", "isRight": false }
+    ]
+  },
+  {
+    "question": "Which Ghanaian leader introduced the 1960 Constitution?",
+    "options": [
+      { "text": "Kwame Nkrumah", "isRight": true },
+      { "text": "Edward Akufo-Addo", "isRight": false },
+      { "text": "John Rawlings", "isRight": false },
+      { "text": "Kofi Abrefa Busia", "isRight": false }
+    ]
+  },
+  {
+    "question": "When did Ghana join the United Nations?",
+    "options": [
+      { "text": "1957", "isRight": true },
+      { "text": "1960", "isRight": false },
+      { "text": "1945", "isRight": false },
+      { "text": "1971", "isRight": false }
+    ]
+  },
+  {
+    "question": "What does the black star on Ghana’s flag symbolize?",
+    "options": [
+      { "text": "African freedom", "isRight": true },
+      { "text": "Unity", "isRight": false },
+      { "text": "Natural resources", "isRight": false },
+      { "text": "Royalty", "isRight": false }
+    ]
+  },
+  {
+    "question": "Which document is Ghana’s supreme law today?",
+    "options": [
+      { "text": "1992 Constitution", "isRight": true },
+      { "text": "Independence Act", "isRight": false },
+      { "text": "Colonial Charter", "isRight": false },
+      { "text": "Republican Act", "isRight": false }
+    ]
+  }
+]
